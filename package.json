@@ -1,0 +1,13 @@
+{
+    "name": "com.funtra.games.hhmusiclayer",
+    "version": "0.1",
+    "displayName": "HH Music Layer",
+    "description": "A simple sound coordinator for syncing on-beat music changes",
+    "unity": "2020.3",
+    "documentationUrl": "https://github.com/funtra/hhmusic",
+    "author": {
+        "name": "Funtra Games LTD",
+        "email": "contact@funtra.games",
+        "url": "https://funtra.games"
+    }
+}
